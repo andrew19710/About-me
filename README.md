@@ -1,1 +1,1 @@
-bash: echo.: command not found
+This is a new simple repository about myself
