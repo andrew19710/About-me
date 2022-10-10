@@ -1,1 +1,14 @@
-bash: echo.: command not found
+h1{
+    color: red;
+    align-content: center;
+}
+
+h2{
+    color: black;
+    align-content: center;
+}
+
+p{
+    color: blue;
+    align-content: center;
+}
